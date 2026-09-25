@@ -51,3 +51,7 @@ This project is suitable for learning:
 - Ethernet frame basics
 - packet capture fundamentals
 - C-based network programming
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
