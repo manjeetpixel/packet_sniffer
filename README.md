@@ -35,7 +35,7 @@ sudo ./sniffer
 
 ## Screenshot
 
-![Packet Sniffer output](assets/sniffer-output.png)
+![Packet Sniffer Output](assets/sniffer%20screen%20shot.png)
 
 ## Example output
 
