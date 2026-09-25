@@ -37,14 +37,6 @@ sudo ./sniffer
 
 ![Packet Sniffer Output](assets/sniffer%20screen%20shot.png)
 
-## Example output
-
-```text
-Packet captured:
-00 11 22 33 44 55 66 77 88 99 aa bb cc dd ee ff
-...
-```
-
 ## Important notes
 
 - This is a beginner project, not a production-grade packet analyzer.
