@@ -33,6 +33,10 @@ gcc sniffer.c -o sniffer
 sudo ./sniffer
 ```
 
+## Screenshot
+
+![Packet Sniffer output](assets/sniffer-output.png)
+
 ## Example output
 
 ```text
